@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Something isn't working right.
+about: Something is broken and needs to be fixed.
 title: ''
 labels: bug
 assignees: TheRealDannyyy
