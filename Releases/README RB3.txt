@@ -12,7 +12,7 @@ Installation
 1. Put the "Rock Band 3" folder inside Phase Shift "themes" folder (...Steam\SteamApps\common\Phase Shift\themes)
 2. Enable "Menu video background" inside options menu
 3. Set "Neck" in profile options to "default"
-4. Select "Rock Band 3" inside options menu
+4. Select "Rock Band 3" theme inside options menu
 5. Restart Phase Shift to reload and play
 
 Change Log
