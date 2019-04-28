@@ -11,4 +11,4 @@ Contributions can be direct modifcations using <a href="https://github.com/TheRe
 <br><br><i><b>Will the theme ports be 1:1 accurate?</b></i><br>
 No! I'm keeping the most of the structure but expect several changes, especially to asset quality.
 <br><br><i><b>How can I follow the progress of this project?</b></i><br>
-Currently the only ways are to fork, watch or star the project (requires account). <br>Once things are stable, I will create a Steam forum topic.
+Currently the only ways to stay in touch are to fork, watch or star the project (requires account). <br>Once things are stable, I will create a Steam forum topic.
