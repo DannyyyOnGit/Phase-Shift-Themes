@@ -29,7 +29,6 @@ V0.2
 - Fixed several font related issues
 - Fixed background video not playing properly
 
-
 V0.1
 - Initial setup
 - Minor hotfixes
