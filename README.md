@@ -1,8 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/TheRealDannyyy/Phase-Shift-Theme-Ports/master/.github/ASSETS/git_logo.png"></p>
 
-## Description
-Phase Shift (Steam Edition) ports of legacy themes that are broken or stopped working as a whole.
-
 ## Theme Releases
 Downloads for experimental theme releases: <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/releases">Link ➚</a>
 
