@@ -17,6 +17,19 @@ Installation
 
 Change Log
 ================
+V0.2
+- Added startup sequence
+- Added new player dummybox
+- Added profile menu
+- Added profile selection menu
+- Added new/edit profile menu
+- Added dynamic input icon
+- Added midi link menu (experimental)
+- Added message boxes (experimental)
+- Fixed several font related issues
+- Fixed background video not playing properly
+
+
 V0.1
 - Initial setup
 - Minor hotfixes
