@@ -17,6 +17,12 @@ Installation
 
 Change Log
 ================
+V0.3
+- Added options menu (+sub menus)
+- Added binding menu
+- Added music studio
+- Added instrument name in profile
+
 V0.2
 - Added startup sequence
 - Added new player dummybox
@@ -31,4 +37,4 @@ V0.2
 
 V0.1
 - Initial setup
-- Minor hotfixes
+- Minor hotfixes & cleanup
