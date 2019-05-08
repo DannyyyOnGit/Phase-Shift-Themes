@@ -5,7 +5,7 @@ Downloads for experimental theme releases: <a href="https://github.com/TheRealDa
 
 ## Q&A
 <i><b>When are you going to finish this project?</b></i><br>
-It really depends on how much time I'm willing to invest in this project. Any contributions will speed up this process. <br> To give a simple answer: expect at least 1 month.
+It really depends on how much time I'm willing to invest in this project. Any contributions will speed up this process. <br> To give a simple answer: expect at least 1 month for a single theme port.
 <br><br><i><b>How can I contribute?</b></i><br>
 Contributions can be direct modifcations using <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/pulls">pull requests</a>. Users can also contribute by <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/issues">reporting bugs</a>.
 <br><br><i><b>Will the theme ports be 1:1 accurate?</b></i><br>
