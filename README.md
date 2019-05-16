@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/TheRealDannyyy/Phase-Shift-Theme-Ports/master/.github/ASSETS/git_logo.png"></p>
 
 ## Theme Info
-- <b>Theme Release Downloads:</b> <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/releases">Link ➚</a>
+- <b>Release Downloads:</b> <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/releases">Link ➚</a>
 - <b>DWSK Forum Topic:</b> <a href="http://dwsk.proboards.com/thread/2795/rock-theme-phase-shift-steam">Link ➚</a>
 
 ## Q&A
