@@ -2,8 +2,9 @@ Theme Details
 ================
 Rock Band 2 Theme for Phase Shift (Steam Edition)
 Created by: JD2504 (Contributions: Bluzer, Tarmac and oddbrother)
-Ported by: TheRealDannyyy
+Updated by: TheRealDannyyy
 Copyright: Harmonix, Rock Band, Rock Band 2 and all related titles and logos are trademarks of Harmonix Music Systems, Inc. All other marks are the property of their respective owners.
+Bug Reports: https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/issues
 
 Installation
 ================
@@ -15,6 +16,14 @@ Installation
 
 Change Log
 ================
+V0.5
+- Added Gameplay
+- Added Practice menu
+- Added Network menu
+- Added Career menu
+- Added 1st set of HD assets
+- Many smaller fixes
+
 V0.4
 - Added song selection menu (+sub menus)
 - Added search menu (+searchbox, rating, playcount)
