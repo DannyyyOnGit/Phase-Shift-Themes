@@ -10,6 +10,7 @@ No clue, it really depends on how much time I'm willing to invest in this projec
 <br><br><i><b>Will the theme ports be 1:1 accurate?</b></i><br>
 No! I'm keeping the most of the structure but expect several changes, especially to asset quality.
 <br><br><i><b>How can I follow the progress of this project?</b></i><br>
-If you want to stay in touch you can bookmark the forum topic. You can also fork, watch or star the project here (requires account).
+If you want to stay in touch you can bookmark the forum topic. 
+<br>You can also fork, watch or star the project here (requires account).
 ## Contributions
 Everyone can contribute using <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/pulls">pull requests</a>. Users can also contribute by <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/issues">reporting bugs</a>.
