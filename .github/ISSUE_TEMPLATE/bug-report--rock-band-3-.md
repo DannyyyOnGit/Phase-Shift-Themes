@@ -7,7 +7,7 @@ assignees: TheRealDannyyy
 
 ---
 
-**Theme version:** <!-- (Option menu in the bottom-left.) -->
+**Theme version:** <!-- (Options menu in the bottom-left.) -->
  - V
 
 **Describe the bug:**
