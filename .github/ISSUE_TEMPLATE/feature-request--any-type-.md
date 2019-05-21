@@ -1,5 +1,5 @@
 ---
-name: Feature Request (General)
+name: Feature Request (Any Type)
 about: Suggest an idea for an enhancement.
 title: ''
 labels: enhancement
