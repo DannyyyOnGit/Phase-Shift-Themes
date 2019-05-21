@@ -3,7 +3,7 @@
 2. Update changelog found in "README X.txt"
 3. Create zip with Theme folder, Extra Features folder and "README X.txt"
 4. Publish release with available info
-5. Remove Old release but keep zip archive
+5. Remove old release but keep zip archive
 
 # Compatibility Features
 1. Go to "Extra Features" folder for selected Theme
