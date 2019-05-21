@@ -13,4 +13,4 @@ assignees: TheRealDannyyy
 **What's the shortened version of your icon?**
 - Short Name (10 char max!)
 
-**Upload your icon (PNG; at least 64x64):**
+**Upload your icon:** <!--(PNG; at least 64x64)-->
