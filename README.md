@@ -13,4 +13,4 @@ No! I'm keeping the most of the structure but expect several changes, especially
 If you want to stay in touch you can bookmark the forum topic. 
 <br>You can also fork, watch or star the project here (requires account).
 ## Contributions
-Everyone can contribute using <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/pulls">pull requests</a>. Users can also contribute by <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/issues">reporting bugs</a>.
+Everyone can contribute using <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/pulls">pull requests</a>. Users can also contribute by <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/issues">creating issues</a>.
