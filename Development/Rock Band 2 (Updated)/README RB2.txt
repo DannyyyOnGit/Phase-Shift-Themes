@@ -22,17 +22,19 @@ V0.6
 - Added J-Rock Band icon support
 - Added board color support
 - Added rock band 2 style jukebox
+- Added section FC and overhits stats
 - Added fallback for unusual difficulty levels
 - Added extra features for optional PS content
 - Added 2nd set of HD assets
-- Fixed 100% FC indicator not displaying correctly
-- Fixed skill indicator not displaying correctly
+- Fixed song selection 100% FC indicator not displaying correctly
+- Fixed song selection skill indicator not displaying correctly
 - Fixed font related issues with some special chars
 - Fixed solo UI overlapping name in online play
 - Fixed timer overlapping songname in lobby
 - Fixed player and song overlapping in server list
 - Fixed difficulty selection all ready text overlap
-- Fixed several errors found in the game log file
+- Fixed button reference background missing in lobby
+- Fixed several errors found in the game's log file
 
 V0.5
 - Added Gameplay
