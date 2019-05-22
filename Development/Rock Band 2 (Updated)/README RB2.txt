@@ -35,6 +35,7 @@ V0.6
 - Fixed difficulty selection all ready text overlap
 - Fixed button reference background missing in lobby
 - Fixed several errors found in the game's log file
+- Fixed players not displaying in server list info
 
 V0.5
 - Added Gameplay
