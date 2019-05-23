@@ -3,6 +3,7 @@
 ## Theme Info
 - <b>Release Downloads:</b> <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/releases">Link ➚</a>
 - <b>DWSK Forum Topic:</b> <a href="http://dwsk.proboards.com/thread/2795/rock-theme-phase-shift-steam">Link ➚</a>
+- <b>DWSK Discord (Unofficial):</b> <a href="https://discord.gg/5WA3fng">Link ➚</a>
 
 ## Q&A
 <i><b>When are you going to finish this project?</b></i><br>
