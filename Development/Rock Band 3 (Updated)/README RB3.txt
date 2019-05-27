@@ -16,5 +16,11 @@ Installation
 
 Change Log
 ================
+V0.2
+- Added Startup Menu
+- Added Main Menu
+- Added Profile Menu
+-
+
 V0.1
 - Initial setup
