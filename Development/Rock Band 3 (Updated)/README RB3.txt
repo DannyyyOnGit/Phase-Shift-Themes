@@ -3,7 +3,7 @@ Theme Details
 Rock Band 3 Theme for Phase Shift (Steam Edition)
 Created by: JD2504 (Contributions: Bluzer, Tarmac and oddbrother)
 Updated by: TheRealDannyyy
-Copyright: Harmonix, Rock Band, Rock Band 2 and all related titles and logos are trademarks of Harmonix Music Systems, Inc. All other marks are the property of their respective owners.
+Copyright: Harmonix, Rock Band 3 and all related titles and logos are trademarks of Harmonix Music Systems, Inc. All other marks are the property of their respective owners.
 Bug Reports: https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/issues
 
 Installation
@@ -17,10 +17,19 @@ Installation
 Change Log
 ================
 V0.2
-- Added Startup Menu
-- Added Main Menu
-- Added Profile Menu
--
+- Added startup sequence
+- Added new player dummybox
+- Added profile menu
+- Added profile selection menu
+- Added new/edit profile menu
+- Added midi link menu
+- Added message boxes
+- Added options menu (+sub menus)
+- Added binding menu
+- Added music studio
+- Added C3 icon support
+- Added Exilelord icon support
+- Added J-Rock Band icon support
 
 V0.1
 - Initial setup
