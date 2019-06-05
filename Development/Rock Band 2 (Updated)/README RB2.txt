@@ -16,6 +16,10 @@ Installation
 
 Change Log
 ================
+V0.7
+- Added better star counter
+- Smaller fixes & improvements
+
 V0.6
 - Added C3 icon support
 - Added Exilelord icon support

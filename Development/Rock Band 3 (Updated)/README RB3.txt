@@ -16,6 +16,11 @@ Installation
 
 Change Log
 ================
+V0.3
+- Added song selection menu (+sub menus)
+- Added search menu
+- Added difficulty selection
+
 V0.2
 - Added startup sequence
 - Added new player dummybox
