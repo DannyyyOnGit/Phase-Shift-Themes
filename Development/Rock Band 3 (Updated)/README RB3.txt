@@ -16,10 +16,17 @@ Installation
 
 Change Log
 ================
+V0.4
+- Added rounded profile picture
+- Fixed song selection bugs
+
 V0.3
 - Added song selection menu (+sub menus)
 - Added search menu
 - Added difficulty selection
+- Added C3 icon support
+- Added Exilelord icon support
+- Added J-Rock Band icon support
 
 V0.2
 - Added startup sequence
@@ -32,9 +39,7 @@ V0.2
 - Added options menu (+sub menus)
 - Added binding menu
 - Added music studio
-- Added C3 icon support
-- Added Exilelord icon support
-- Added J-Rock Band icon support
 
 V0.1
 - Initial setup
+- Minor hotfixes & cleanup

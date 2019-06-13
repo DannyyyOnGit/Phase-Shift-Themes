@@ -17,8 +17,12 @@ Installation
 Change Log
 ================
 V0.7
-- Added better star counter
-- Smaller fixes & improvements
+- Added better star counter (based on Herr Dunkel's RB4 theme)
+- Added simple health meter
+- Added 3rd small set of HD assets
+- Fixed streak counter offset
+- Fixed profile picture offset
+- Fixed minor issues with song lyrics
 
 V0.6
 - Added C3 icon support
@@ -51,7 +55,7 @@ V0.5
 
 V0.4
 - Added song selection menu (+sub menus)
-- Added search menu (+searchbox, rating, playcount)
+- Added search menu
 - Several smaller fixes
 
 V0.3
@@ -67,8 +71,8 @@ V0.2
 - Added profile selection menu
 - Added new/edit profile menu
 - Added dynamic input icon
-- Added midi link menu (experimental)
-- Added message boxes (experimental)
+- Added midi link menu
+- Added message boxes
 - Fixed several font related issues
 - Fixed background video not playing properly
 
