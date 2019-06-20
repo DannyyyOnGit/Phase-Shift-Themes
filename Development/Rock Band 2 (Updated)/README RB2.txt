@@ -19,6 +19,7 @@ Change Log
 V0.7
 - Added better star counter (based on Herr Dunkel's RB4 theme)
 - Added simple health meter
+- Added extra feature: chroma key
 - Added 3rd set of HD assets
 - Fixed streak counter offset
 - Fixed profile picture offset
