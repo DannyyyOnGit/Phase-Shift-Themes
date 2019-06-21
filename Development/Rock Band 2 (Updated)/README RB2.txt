@@ -21,7 +21,7 @@ V0.7
 - Added simple health meter
 - Added extra feature: chroma key
 - Added 3rd set of HD assets
-- Fixed streak counter offset
+- Fixed multiplier offset
 - Fixed profile picture offset
 - Fixed minor issues with song lyrics
 
