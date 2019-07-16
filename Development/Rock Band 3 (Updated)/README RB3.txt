@@ -17,8 +17,11 @@ Installation
 Change Log
 ================
 V0.4
-- Added rounded profile picture
-- Fixed song selection bugs
+- Added gameplay
+- Added practice menu
+- Fixed main menu helper text
+- Fixed song selection issues
+- Fixed song search issues
 
 V0.3
 - Added song selection menu (+sub menus)

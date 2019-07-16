@@ -16,6 +16,11 @@ Installation
 
 Change Log
 ================
+V0.7.5
+- Added more detail to star counter
+- Added 4th set of HD assets
+- Fixed font related issues with edge-bleeding
+
 V0.7
 - Added better star counter (based on Herr Dunkel's RB4 theme)
 - Added simple health meter
@@ -47,10 +52,10 @@ V0.6
 - Fixed players not displaying in server list info
 
 V0.5
-- Added Gameplay
-- Added Practice menu
-- Added Network menu
-- Added Career menu
+- Added gameplay
+- Added practice menu
+- Added network menu
+- Added career menu
 - Added 1st set of HD assets
 - Many smaller fixes
 
