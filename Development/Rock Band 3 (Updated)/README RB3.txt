@@ -16,6 +16,12 @@ Installation
 
 Change Log
 ================
+V0.5
+- Added career menu
+- Added extra features for optional PS content
+- Added extra feature: chroma key
+- Several smaller fixes
+
 V0.4
 - Added gameplay
 - Added practice menu
