@@ -16,6 +16,13 @@ Installation
 
 Change Log
 ================
+V0.6
+- Added network menu
+- Added 1st set of HD assets
+- Fixed issue with album covers
+- Fixed win/dead display
+- Several smaller fixes
+
 V0.5
 - Added career menu
 - Added extra features for optional PS content
