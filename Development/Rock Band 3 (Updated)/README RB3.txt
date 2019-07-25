@@ -14,10 +14,25 @@ Installation
 4. Select "Rock Band 3" theme inside options menu
 5. Restart Phase Shift to reload and play
 
+Requirements
+================
+- Phase Shift V1.38+ (Steam Edition)
+- 16:9 widescreen monitor
+- English language
+- ~2gb available RAM
+
 Change Log
 ================
+V0.7
+- Added 2nd set of HD assets
+- Fixed advanced drums icon
+- Fixed osd background offset
+- Fixed jukebox song overlap
+- Fixed player profile overlap
+- Several smaller fixes
+
 V0.6
-- Added network menu
+- Added network menu (+sub menus)
 - Added 1st set of HD assets
 - Fixed issue with album covers
 - Fixed win/dead display

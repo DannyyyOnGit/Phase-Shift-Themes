@@ -14,6 +14,13 @@ Installation
 4. Select "Rock Band 2" theme inside options menu
 5. Restart Phase Shift to reload and play
 
+Requirements
+================
+- Phase Shift V1.38+ (Steam Edition)
+- 16:9 widescreen monitor
+- English language
+- ~2gb available RAM
+
 Change Log
 ================
 V0.7.5
