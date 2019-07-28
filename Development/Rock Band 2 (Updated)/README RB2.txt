@@ -29,7 +29,7 @@ V0.7.5
 - Added performance stats to results
 - Added particle effect to notes
 - Added 4th set of HD assets
-- Fixed song selection overlap
+- Several smaller fixes
 
 V0.7
 - Added better star counter (based on Herr Dunkel's RB4 theme)
