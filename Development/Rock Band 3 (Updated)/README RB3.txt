@@ -9,7 +9,7 @@ Bug Reports: https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/issues
 Installation
 ================
 1. Put the "Rock Band 3" folder inside Phase Shift "themes" folder (...Steam\SteamApps\common\Phase Shift\themes)
-2. Enable "Menu video background" inside options menu
+2. Enable "Menu video background" inside the options menu
 3. Set "Neck" in profile options to "default" or "RB3Black"
 4. Select "Rock Band 3" theme inside options menu
 5. Restart Phase Shift to reload and play
@@ -23,12 +23,16 @@ Requirements
 
 Change Log
 ================
+V0.7.5
+- Added extra feature: dynamic backgrounds
+- Several smaller fixes
+
 V0.7
 - Added 2nd set of HD assets
 - Fixed advanced drums icon
 - Fixed osd background offset
 - Fixed jukebox song overlap
-- Fixed player profile overlap
+- Fixed player profile pic overlap
 - Several smaller fixes
 
 V0.6

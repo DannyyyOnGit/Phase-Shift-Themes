@@ -9,7 +9,7 @@ Bug Reports: https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/issues
 Installation
 ================
 1. Put the "Rock Band 2" folder inside Phase Shift "themes" folder (...Steam\SteamApps\common\Phase Shift\themes)
-2. Enable "Menu video background" inside options menu
+2. Enable "Menu video background" inside the options menu
 3. Set "Neck" in profile options to "default"
 4. Select "Rock Band 2" theme inside options menu
 5. Restart Phase Shift to reload and play
@@ -24,9 +24,12 @@ Requirements
 Change Log
 ================
 V0.7.5
+- Added extra feature: dynamic backgrounds
 - Added more detail to star counter
+- Added performance stats to results
+- Added particle effect to notes
 - Added 4th set of HD assets
-- Fixed font related issues with edge-bleeding
+- Fixed song selection overlap
 
 V0.7
 - Added better star counter (based on Herr Dunkel's RB4 theme)
