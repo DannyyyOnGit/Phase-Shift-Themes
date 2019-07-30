@@ -8,9 +8,9 @@ assignees: TheRealDannyyy
 ---
 
 **What's the icon called?**
-- Full Name
 
-**What's the shortened version of your icon?**
-- Short Name (10 char max!)
 
-**Upload your icon:** <!--(PNG; at least 64x64)-->
+**What's the shortened version of your icon? (10 char max!)**
+
+
+**Upload your icon (PNG; at least 64x64):**
