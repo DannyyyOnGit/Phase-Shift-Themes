@@ -7,11 +7,11 @@ assignees: TheRealDannyyy
 
 ---
 
-**Theme version:** <!-- (Options menu in the bottom-left.) -->
+**Theme version:**
  - V
 
 **Describe the bug:**
-A clear and concise description of what the bug is.
+
 
 **Screenshots:**
-If applicable, add screenshots to help explain your problem.
+
