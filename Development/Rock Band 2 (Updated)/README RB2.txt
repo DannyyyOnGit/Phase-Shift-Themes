@@ -23,6 +23,11 @@ Requirements
 
 Change Log
 ================
+V0.8.0
+- Added new RB2 loading screen
+- Added 5th set of HD assets
+- Fixed a bug with the Expert+ text display
+
 V0.7.5
 - Added extra feature: dynamic backgrounds
 - Added more detail to star counter
