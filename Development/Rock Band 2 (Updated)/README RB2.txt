@@ -25,6 +25,7 @@ Change Log
 ================
 V0.8.0
 - Added new RB2 loading screen
+- Added official score font
 - Added 5th set of HD assets
 - Fixed a bug with the Expert+ text display
 
