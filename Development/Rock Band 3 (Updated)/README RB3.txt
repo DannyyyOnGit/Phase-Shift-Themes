@@ -23,6 +23,15 @@ Requirements
 
 Change Log
 ================
+V0.8.0
+- Added integrated song search
+- Added RB4 icon support
+- Added RB4dlc icon support
+- Fixed a bug with Expert+ text display
+- Fixed score and timer jittering
+- Fixed wrong multiplier font
+- Several smaller fixes
+
 V0.7.5
 - Added extra feature: dynamic backgrounds
 - Several smaller fixes
