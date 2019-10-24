@@ -1,7 +1,7 @@
 Theme Details
 ================
 Rock Band 3 Theme for Phase Shift (Steam Edition)
-Created by: JD2504 (Contributions: Bluzer, Tarmac and oddbrother)
+Created by: JD2504 (Contributions: Bluzer, Tarmac, oddbrother and Matt)
 Updated by: TheRealDannyyy
 Copyright: Harmonix, Rock Band 3 and all related titles and logos are trademarks of Harmonix Music Systems, Inc. All other marks are the property of their respective owners.
 Bug Reports: https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/issues
@@ -27,9 +27,12 @@ V0.8.0
 - Added integrated song search
 - Added RB4 icon support
 - Added RB4dlc icon support
+- Added original menu font
 - Fixed a bug with Expert+ text display
-- Fixed score and timer jittering
-- Fixed wrong multiplier font
+- Fixed debug info display for song icons
+- Fixed score and timer jumping
+- Fixed wrong multiplier fill
+- Fixed wrong fret fill
 - Several smaller fixes
 
 V0.7.5
