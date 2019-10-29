@@ -23,7 +23,7 @@ Requirements
 
 Change Log
 ================
-V0.8.0
+V0.8
 - Added integrated song search
 - Added RB4 icon support
 - Added RB4dlc icon support

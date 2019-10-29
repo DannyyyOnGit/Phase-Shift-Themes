@@ -23,14 +23,14 @@ Requirements
 
 Change Log
 ================
-V0.8.0
+V0.8
 - Added integrated song search
 - Added new RB2 loading screen
 - Added official score font
 - Added RB4 icon support
 - Added RB4dlc icon support
 - Fixed a bug with Expert+ text display
-- Fixed score and timer jittering
+- Fixed score and timer jumping
 - Fixed wrong multiplier font
 - Several smaller fixes
 
