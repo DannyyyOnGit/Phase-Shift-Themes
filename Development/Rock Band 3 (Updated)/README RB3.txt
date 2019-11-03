@@ -29,7 +29,7 @@ V0.8
 - Added RB4dlc icon support
 - Added original menu font
 - Fixed a bug with Expert+ text display
-- Fixed debug info display for song icons
+- Fixed unsupported song icons text display
 - Fixed score and timer jumping
 - Fixed wrong multiplier fill
 - Fixed wrong fret fill
