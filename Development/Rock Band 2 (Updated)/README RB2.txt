@@ -23,6 +23,10 @@ Requirements
 
 Change Log
 ================
+V0.9
+- Fixed unsupported song icons text display
+- Fixed instrument selected text overflow
+
 V0.8
 - Added integrated song search
 - Added new RB2 loading screen
