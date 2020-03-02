@@ -6,5 +6,9 @@
 - <b>DWSK Forum Topic (RB3):</b> <a href="http://dwsk.proboards.com/thread/2813/theme-phase-shift-steam-edition">Link ➚</a>
 - <b>DWSK Discord (Unofficial):</b> <a href="https://discord.gg/5WA3fng">Link ➚</a>
 
+# Themes
+- Rock Band 2
+- Rock Band 3
+
 ## Contributions
 Everyone can contribute using <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/pulls">pull requests</a>. Users can also contribute by <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/issues">creating issues</a>.
