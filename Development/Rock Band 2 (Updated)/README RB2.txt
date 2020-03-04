@@ -24,8 +24,10 @@ Requirements
 Change Log
 ================
 V0.8.5
+- Added extra feature: steam library
 - Fixed unsupported song icons text display
-- Fixed instrument selected text overflow
+- Fixed selected instrument text overflow
+- Several smaller fixes
 
 V0.8
 - Added integrated song search

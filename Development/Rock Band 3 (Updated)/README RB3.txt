@@ -24,7 +24,9 @@ Requirements
 Change Log
 ================
 V0.8.5
-- 
+- Added extra feature: steam library
+- Fixed album image clipping
+- Several smaller fixes
 
 V0.8
 - Added integrated song search
