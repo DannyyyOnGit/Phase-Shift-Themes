@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/TheRealDannyyy/Phase-Shift-Theme-Ports/master/.github/ASSETS/git_logo.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TheRealDannyyy/Phase-Shift-Themes/master/.github/ASSETS/GitHubReadme.png"></p>
 
 # Links
 - <b>Theme Downloads:</b> <a href="https://github.com/TheRealDannyyy/Phase-Shift-Theme-Ports/releases">Link ➚</a>
